@@ -1,6 +1,10 @@
-<h1 align="left">Hi 👋! I'm Sayantan! and I'm a Creative Developer from 🌎</h1>
+<h1 align="left">Hi 👋! I'm Sayantan and I'm a Creative Developer from 🌎</h1>
 
 ###
+
+🎨 Tech is my canvas: I see technology as a way to create magic and make life a little more beautiful.<br>
+🌟 Inspired by dreamers: Visionaries like Elon Musk remind me that with big dreams, we can truly change the world.<br>
+🏰 Building my empire: I’m on a journey to innovate and create projects that leave a real, lasting impact.
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sayantann7&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -103,5 +107,13 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/sayantann7/sayantann7/output/snake.svg" alt="Snake animation" />
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=sayantann7&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=sayantann7&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sayantann7&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ###
