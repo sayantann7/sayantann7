@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm Sayantan! and I'm a Creative Developer from 🌎</h2>
+<h1 align="left">Hi 👋! I'm Sayantan! and I'm a Creative Developer from 🌎</h1>
 
 ###
 
