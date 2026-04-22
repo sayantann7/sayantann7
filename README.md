@@ -1,11 +1,9 @@
-<h1 align="left">Hi 👋! I'm Sayantan and I dream of AGI🤖</h1>
+<h1 align="left">Hi! I'm Sayantan and I dream of AGI</h1>
 
 ###
-
-🎨 Tech is my canvas: I see technology as a way to create magic and make life a little more beautiful.<br>
-🌟 Inspired by dreamers: Visionaries like Elon Musk remind me that with big dreams, we can truly change the world.<br>
-🏰 Building my empire: I’m on a journey to innovate and create projects that leave a real, lasting impact.
-
+Full Stack Developer | AI Engineer | Cloud Engineer <br><br>
+I build and scale production-grade websites over the weekend, AI-native apps, train intelligent agents, and create stuff that can grow humanity more than the universe.
+<br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sayantann7&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sayantann7&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
